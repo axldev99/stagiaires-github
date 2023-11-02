@@ -12,7 +12,7 @@ git clone https://github.com/axldev99/stagiaires-github.git
 
 # 2 Créez un fichier HTML nommé : index.html
 
-Le titre de la page doit être "Le singe",
+Le titre (TITLE) de la page doit être "Le singe",
 
 Ajoutez ceci au body : 
   ```
