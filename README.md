@@ -15,10 +15,10 @@ git clone https://github.com/axldev99/stagiaires-github.git
 Le titre de la page doit être "Le singe",
 
 Ajoutez ceci au body : 
-
+  ```
 <h1>Le singe</h1>
 <p>Le terme viendrait du latin impérial singeosorus, plutôt que du latin classique singeosaure</p>
-
+  ```
 
 # 3 Faites votre premier commit
 
