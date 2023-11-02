@@ -56,8 +56,8 @@ Ajoutez ceci au body :
 
 # 6 Modifiez le code de index.html
 
-Changez le titre de la page pour "Le super singe".
-Remplacez la ligne du paragraphe par ceci : <p>Le VRAI terme viendrait du latin impérial simius, plutôt que du latin classique simia.</p>
+Changez le titre (TITLE) de la page pour "Le super singe".
+Remplacez la ligne du paragraphe par ceci :   ```<p>Le VRAI terme viendrait du latin impérial simius, plutôt que du latin classique simia.</p>  ```
 
 
 # 7 Faites un commit de vos modifications
