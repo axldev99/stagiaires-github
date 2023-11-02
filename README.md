@@ -23,7 +23,7 @@ Ajoutez ceci au body :
 # 3 Faites votre premier commit
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git add index.html
@@ -35,7 +35,7 @@ Ajoutez ceci au body :
 # 4 Poussez votre code sur la branche main 
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git push origin main
@@ -46,7 +46,7 @@ Ajoutez ceci au body :
 # 5 Créez une nouvelle branche : Demo
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git checkout -b demo
@@ -63,7 +63,7 @@ Remplacez la ligne du paragraphe par ceci : <p>Le VRAI terme viendrait du latin 
 # 7 Faites un commit de vos modifications
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git add index.html
@@ -75,7 +75,7 @@ Remplacez la ligne du paragraphe par ceci : <p>Le VRAI terme viendrait du latin 
 # 8 Faites un push de vos changements 
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git push origin demo
@@ -86,7 +86,7 @@ Remplacez la ligne du paragraphe par ceci : <p>Le VRAI terme viendrait du latin 
 # 9 Revenez sur main et faites une pull request
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git checkout main
@@ -100,7 +100,7 @@ Remplacez la ligne du paragraphe par ceci : <p>Le VRAI terme viendrait du latin 
 Un coup les conflits résolus, poussez vos changements.
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git add index.html
@@ -112,7 +112,7 @@ Un coup les conflits résolus, poussez vos changements.
 # 11 Clôturez la pull request 
 
 <details>
-  <summary>Example</summary>
+  <summary>Exemple</summary>
 
   ```
   git push origin main
